@@ -1,3 +1,5 @@
+//Eu que fiz.
+let aula1 = "DOM";
 // Assincronicidade
 
 const food1 = "Lasanha";
